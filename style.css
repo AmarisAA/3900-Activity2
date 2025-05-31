@@ -1,3 +1,16 @@
+
+a {
+ text-decoration: none;
+  color: #0d50cd;
+ }
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+}
+
 body { 
   font-family: "Times New Roman", Times, serif;
   font-size: 12px;
